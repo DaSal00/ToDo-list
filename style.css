@@ -4,7 +4,7 @@ body{
     font-family: 'Roboto', sans-serif;
     margin: 0;
     padding:0;
-    background-color: #F1DBBF;
+    background-color: white;
 }
 
 #container{
@@ -31,7 +31,7 @@ body{
 
 .input-btn{
     border:none;
-    background-color:  #F1DBBF;
+    background-color:  white;
     font-size: 24px;
 
 }
